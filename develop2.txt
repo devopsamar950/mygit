@@ -1,1 +1,4 @@
-s mt seconnd develop file idoiot 
+s mt seconnd develop file idoiot
+
+edited 2:wq
+ 
